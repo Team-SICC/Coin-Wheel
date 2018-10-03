@@ -1,9 +1,11 @@
 # Coin-Wheel
 Coin Wheel Game:
 
--Prompts the user to input number of coins, number of coins to reveal each turn, and number of spins.
--Builds a wheel from user input and displays hidden wheel with revealed coins.
--Checks to make sure that initial wheel setup is not already all heads or all tails.
+Prompts the user to input number of coins, number of coins to reveal each turn, and number of spins.  
+
+Builds a wheel from user input and displays hidden wheel with revealed coins.  
+
+Checks to make sure that initial wheel setup is not already all heads or all tails.
 
 To Compile: 
 
